@@ -1,5 +1,5 @@
 fun main() {
-    var firstName = "nerd"//var values change
+    var firstName = "nerd"     //var values change
     firstName = "mad"
     println(firstName)
     val firstAge = 20
